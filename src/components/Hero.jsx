@@ -19,13 +19,13 @@ export default function Hero() {
           Our Love, Across Every Scale
         </h1>
         <p className="mx-auto mb-8 max-w-2xl text-base text-white/80 sm:text-lg">
-          Spin the red globe, feel the pull. From the tiniest moon to the farthest multiverse — my love grows larger every step of the way.
+          Spin the red globe, feel the pull. From the tiniest moon to the farthest multiverse — my love grows larger every step of the way, Harshitha.
         </p>
         <a
           href="#scale"
           className="rounded-full bg-gradient-to-r from-rose-500 to-red-500 px-6 py-3 text-sm font-medium text-white shadow-lg transition hover:from-rose-400 hover:to-red-400 focus:outline-none focus:ring-2 focus:ring-rose-300"
         >
-          See our cosmic journey
+          Begin the journey
         </a>
       </div>
     </section>
