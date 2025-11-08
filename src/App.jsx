@@ -4,7 +4,7 @@ import ScaleComparison from './components/ScaleComparison';
 import LoveLetter from './components/LoveLetter';
 import Footer from './components/Footer';
 
-function App() {
+export default function App() {
   return (
     <div className="min-h-screen w-full bg-black text-white">
       <Hero />
@@ -14,5 +14,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
